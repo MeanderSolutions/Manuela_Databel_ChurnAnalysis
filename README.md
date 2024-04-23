@@ -1,8 +1,7 @@
 # Manuela_Databel_ChurnAnalysis
- PowerBI
  
-Datacamp Case Study:
-DATABEL Churn Rate
+ 
+Case Study: DATABEL Churn Rate
 
 TASK:
 The task was to analyse why customers are churning, or in other words, leaving Databel.
