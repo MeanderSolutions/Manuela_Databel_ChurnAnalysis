@@ -1,7 +1,7 @@
 # Manuela_Databel_ChurnAnalysis
  
  
-Case Study: DATABEL Churn Rate
+DATATABEL Churn Rate
 
 TASK:
 The task was to analyse why customers are churning, or in other words, leaving Databel.
